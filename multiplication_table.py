@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 30 23:28:55 2019
 
-@author: DELL
+@author:vignesh
 """
 #for example i am taking 10
 #own design actually we need to give 11 for c to print up to length 10
